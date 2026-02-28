@@ -1,0 +1,7 @@
+{
+  "name": "Zogdida",
+  "description": "Une application tunisienne pour réduire le gaspillage alimentaire en gérant intelligemment votre frigo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
